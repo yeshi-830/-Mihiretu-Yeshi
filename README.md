@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src=".profile.jpg" width="180" height="180" alt="Mihiretu Yeshi" />
+<img src="./profile.jpg" width="180" height="180" alt="Mihiretu Yeshi" />
 
 # Mihiretu Yeshi
 
