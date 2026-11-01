@@ -1,82 +1,69 @@
-## Hi, I'm Mihiretu Yeshi 👋
+# 👋 Hi, I'm Mihiretu Yeshi
 
-### Full-Stack Developer | Software Engineering Student | Tech Enthusiast
+### 🚀 Full-Stack Developer | Software Engineering Student
 
-I am a software engineering student passionate about building modern, scalable, and user-friendly applications.
+I build modern web applications, solve real-world problems, and continuously improve my software engineering skills.
 
-I enjoy solving real-world problems through software development, exploring new technologies, and continuously improving my engineering skills.
-
-- 💻 Focus: Full-Stack Web Development
-- 🌱 Currently learning: Advanced JavaScript, React, Node.js & Data Structures
-- 🚀 Interested in: Software Engineering, AI & Modern Web Technologies
-- 🎯 Goal: Become a skilled Software Engineer
-- 📍 Based in Ethiopia
+- 💻 Passionate about Full-Stack Development
+- 🌱 Learning Advanced JavaScript, React, Node.js & Data Structures
+- 🔭 Building real-world software projects
+- 🎯 Working toward becoming a professional Software Engineer
+- 📍 Ethiopia
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-**Frontend**
- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,sqlite,git,github,vscode,ts" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Smart City Traffic System
-A traffic management application designed to monitor traffic conditions and manage incidents.
-
-🔗 [View Project](https://github.com/yeshi-830/Smart-City-Traffic-System)
-
-### 2. AI-Powered Personal Finance Manager
-A personal finance management application focused on tracking and organizing financial activities.
-
-🔗 [View Project](https://github.com/yeshi-830/AI-Powered-Personal-Finance-Manager)
-
-### 3. Employee Management System
-A full-stack application for managing employees and organizational activities.
-
-🔗 [View Project](https://github.com/yeshi-830/Employee-Management-System)
+| Project | Description |
+|---|---|
+| [Smart City Traffic System](https://github.com/yeshi-830/Smart-City-Traffic-System) | Smart traffic monitoring and incident management |
+| [AI Personal Finance Manager](https://github.com/yeshi-830/AI-Powered-Personal-Finance-Manager) | Personal finance tracking and management |
+| [Employee Management System](https://github.com/yeshi-830/Employee-Management-System) | Full-stack employee management application |
+| [University Registration System](https://github.com/yeshi-830/university-registration-system) | University registration and grading system |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeshi-830&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yeshi-830&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshi-830&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshi-830&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=yeshi-830&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 Contribution Activity
+## 📈 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yeshi-830&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeshi-830&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeshi-830)
+<p align="left">
+<a href="https://github.com/yeshi-830">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
-### 💡 "Building today, engineering tomorrow."
-
-⭐ Thanks for visiting my GitHub profile!
+<p align="center">
+<b>💡 Building today. Engineering tomorrow.</b>
+<br/>
+⭐ Thanks for visiting my profile!
+</p>
