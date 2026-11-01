@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="./profile.jpg" width="180" height="180" alt="Mihiretu Yeshi" />
+<img src="<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c543e067-8ba1-4848-baa6-850b64ff2101" />
+" width="180" height="180" alt="Mihiretu Yeshi" />
 
 # Mihiretu Yeshi
 
